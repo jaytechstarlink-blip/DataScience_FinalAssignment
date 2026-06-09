@@ -2,9 +2,9 @@
 
 ## Slide 1: Title Slide
 - Title: Data Science Final Assignment - Business Strategy Proposal
-- Author: [Your Name]
-- Date: 2026
-- Course: [Course Name]
+- Author: Jonas Ngwenya
+- Date:Submitted 09 June 2026
+
 
 ## Slide 2: Executive Summary
 - Business problem overview
