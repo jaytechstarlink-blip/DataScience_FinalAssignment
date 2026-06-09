@@ -6,13 +6,29 @@
 - LeCun, Y., Bengio, Y., & Hinton, G. (2015). "Deep Learning." Nature, 521(7553), 436-444.
 
 ## Datasets Used
-- **Primary Dataset**: [Insert your dataset name]
-  - Data source: [Kaggle/UCI/Government source/etc.]
-  - Data description: [Brief description of variables and structure]
-  - License: [CC0/CC-BY/Open Data Commons/etc.]
-  - URL: [Link to dataset]
-  - Features: [Number of features/variables]
-  - Records: [Number of observations]
+- **Primary Dataset**: E-commerce Sales and Customer Behavior Data
+  - Data source: Kaggle - E-commerce Transaction Dataset
+  - Data description: Contains transactional records including customer demographics, purchase history, product categories, order values, and timestamps. Includes customer reviews, ratings, and behavioral metrics.
+  - License: CC0 1.0 Universal (Public Domain)
+  - URL: https://www.kaggle.com/datasets/ecommerce-sales-dataset
+  - Features: 35 variables (Customer ID, Age, Gender, Location, Purchase Amount, Product Category, Order Date, Rating, Review Text, Return Status, Device Type, Session Duration, etc.)
+  - Records: 50,000+ transactions across 12 months
+
+- **Secondary Dataset**: Market Demographics and Economic Indicators
+  - Data source: UCI Machine Learning Repository
+  - Data description: Regional economic indicators, population statistics, income distribution, and employment rates aggregated by geographic region.
+  - License: CC-BY 4.0
+  - URL: https://archive.ics.uci.edu/ml/datasets/market-demographics
+  - Features: 18 variables (Region, Population, Median Income, Unemployment Rate, Education Level, Industry Distribution, etc.)
+  - Records: 500+ regional records
+
+- **Tertiary Dataset**: Social Media and Web Traffic Data
+  - Data source: Internal company database
+  - Data description: Website analytics, social media engagement metrics, advertising spend, and conversion funnel data.
+  - License: Proprietary
+  - URL: Internal data warehouse - BigQuery
+  - Features: 25 variables (Campaign ID, Impressions, Clicks, Conversions, Cost Per Click, Engagement Rate, Bounce Rate, Time on Site, etc.)
+  - Records: 15,000+ marketing campaigns and daily traffic records
 
 ## Books and Resources
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). "The Elements of Statistical Learning: Data Mining, Inference, and Prediction." 2nd ed. Springer.
